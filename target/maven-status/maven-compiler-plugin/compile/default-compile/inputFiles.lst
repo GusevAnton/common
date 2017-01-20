@@ -1,0 +1,15 @@
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/view/UserView.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/UserRole.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/Task.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/client/SecurityClient.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/client/UserDatabaseClient.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/Authority.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/User.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/function/AsyncProcessor.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/function/ResponseProcessor.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/Error.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/client/fallback/MailClientFallback.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/Country.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/client/MailClient.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/OrganizationUnit.java
+/Users/antongusev/IdeaProjects/kanban/common/src/main/java/com/mycompany/common/entity/Company.java
